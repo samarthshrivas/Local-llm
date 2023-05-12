@@ -1,2 +1,2 @@
-# local-llm
-jupiter notebooks with local llm 
+# Local-llm
+Jupiter notebooks with local llm 
